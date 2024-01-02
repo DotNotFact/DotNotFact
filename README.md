@@ -1,5 +1,5 @@
-Привет 👋 Меня зовут DotNotFact\
-&nbsp;
+Привет 👋 Меня зовут DotNotFact
+===
 fullstack .net developer
 ---
 
