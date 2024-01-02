@@ -17,19 +17,19 @@ fullstack .net developer
 ### 📬 Социальные сети:
 
 <div id="badges">  
-  <a href="https://t.me/dotnotfact" target="_blank" rel="noreferrer" style="width=40;height=40;">
+  <a href="https://t.me/dotnotfact" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram Badge"/>
   </a> 
 
-  <a href="https://discord.com/users/dotnotfact" target="_blank" rel="noreferrer" style="width=40;height=40;"> 
+  <a href="https://discord.com/users/dotnotfact" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/2626/2626288.png" width="40" height="40" alt="Discord Badge" /> 
   </a> 
   
-  <a href="https://vk.com/dotnotfact" target="_blank" rel="noreferrer" style="width=40;height=40;">
+  <a href="https://vk.com/dotnotfact" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge" />
   </a>
 
-   <a href="https://www.github.com/DotNotFact" target="_blank" rel="noreferrer" style="width=40;height=40;"> 
+   <a href="https://www.github.com/DotNotFact" target="_blank" rel="noreferrer"> 
      <picture> 
        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
