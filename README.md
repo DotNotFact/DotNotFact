@@ -1,6 +1,4 @@
 Привет 👋 Меня зовут DotNotFact
-===========================
-
 fullstack .net developer
 ------------------------
 
@@ -24,8 +22,9 @@ fullstack .net developer
 
   <a href="https://discord.com/users/dotnotfact" target="_blank" rel="noreferrer">
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" alt="Discord Badge" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" height="40" alt="Discord Badge" /> 
     </picture>  
   </a> 
   
@@ -47,7 +46,7 @@ fullstack .net developer
 ### Технологический стек 
 > Навыки
 
-<div align="left">
+<p align="left">
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
@@ -81,11 +80,11 @@ fullstack .net developer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
     
-</div> 
+</p>&nbsp;
 
 > Инструменты
 
-<div align="left"> 
+<div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
@@ -97,11 +96,11 @@ fullstack .net developer
 
 ![codewars](https://www.codewars.com/users/DotNotFact/badges/large)
 
----
-
 ### 💻 LeetCode:
  
 ![LeetCode](https://leetcard.jacoblin.cool/kilyatti?ext=activity)
+
+---
 
 ### ⚙️ GitHub статистика:  
 
