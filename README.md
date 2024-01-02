@@ -1,7 +1,7 @@
 Привет 👋 Меня зовут DotNotFact
 ===
 fullstack .net developer
-------------------------
+---
 
 Я начал изучать программирование ещё в школе. Сначала я увлекся Frontend-разработкой, но затем полностью погрузился в серверную разработку на языке программирования C#. Меня привлекла его простота, лаконичность и универсальность. Кроме того, я обнаружил, что работа над серверной разработкой дает мне возможность создавать более сложные и функциональные приложения, что приносит мне огромное удовольствие. В процессе изучения C# я также улучшил свои навыки в архитектуре программного обеспечения и оптимизации производительности, что позволяет мне создавать более эффективные и масштабируемые решения.
 
@@ -21,12 +21,8 @@ fullstack .net developer
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram Badge"/>
   </a> 
 
-  <a href="https://discord.com/users/dotnotfact" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" height="40" alt="Discord Badge" /> 
-    </picture>  
+  <a href="https://discord.com/users/dotnotfact" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/2626/2626288.png" width="40" height="40" alt="Discord Badge" /> 
   </a> 
   
   <a href="https://vk.com/dotnotfact" target="_blank" rel="noreferrer">
@@ -47,48 +43,47 @@ fullstack .net developer
 ### Технологический стек 
 > Навыки
 
-<p align="left">
+<div>
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
   </a>
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
   </a>
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
   </a>
   
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
   </a>
     
-</p>&nbsp;
+</div>
+
+&nbsp;
 
 > Инструменты
 
 <div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VSCode" width="40" height="40" />&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg" title="WebStorm" alt="WebStorm" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="40" height="40" />&nbsp; 
 </div>
 
 --- 
@@ -105,8 +100,12 @@ fullstack .net developer
 
 ### ⚙️ GitHub статистика:  
 
-<a href="http://www.github.com/DotNotFact"><img src="https://github-readme-stats.vercel.app/api?username=DotNotFact&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DotNotFact's GitHub stats" /></a>
+<a align="left" href="http://www.github.com/DotNotFact">
+  <img src="https://github-readme-stats.vercel.app/api?username=DotNotFact&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DotNotFact's GitHub stats" />
+</a>
 
-<a href="https://github.com/DotNotFact" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DotNotFact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a align="right" href="https://github.com/DotNotFact" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DotNotFact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DotNotFact)
