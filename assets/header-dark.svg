@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Побединский Данила, .NET Backend Developer">
+  <rect width="1000" height="200" fill="#0d1117"/>
+
+  <!-- связи ядра с модулями -->
+  <g stroke="#a371f7" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round">
+    <line x1="817" y1="43" x2="817" y2="157"/>
+    <line x1="760" y1="100" x2="874" y2="100"/>
+  </g>
+
+  <!-- модули: контурные -->
+  <g fill="none" stroke="#30363d" stroke-width="1.5">
+    <rect x="739" y="22"  width="42" height="42" rx="10"/>
+    <rect x="853" y="22"  width="42" height="42" rx="10"/>
+    <rect x="910" y="79"  width="42" height="42" rx="10"/>
+    <rect x="739" y="136" width="42" height="42" rx="10"/>
+    <rect x="853" y="136" width="42" height="42" rx="10"/>
+    <rect x="910" y="136" width="42" height="42" rx="10"/>
+  </g>
+  <!-- модули: залитые -->
+  <g stroke="none">
+    <rect x="796" y="22"  width="42" height="42" rx="10" fill="#a371f7" fill-opacity="0.22"/>
+    <rect x="910" y="22"  width="42" height="42" rx="10" fill="#58a6ff" fill-opacity="0.22"/>
+    <rect x="739" y="79"  width="42" height="42" rx="10" fill="#a371f7" fill-opacity="0.42"/>
+    <rect x="853" y="79"  width="42" height="42" rx="10" fill="#a371f7" fill-opacity="0.22"/>
+    <rect x="796" y="136" width="42" height="42" rx="10" fill="#58a6ff" fill-opacity="0.22"/>
+  </g>
+
+  <!-- ядро -->
+  <rect x="790" y="73" width="54" height="54" rx="14" fill="#a371f7" fill-opacity="0.14"/>
+  <rect x="796" y="79" width="42" height="42" rx="10" fill="#a371f7">
+    <animate attributeName="fill-opacity" values="0.78;1;0.78" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- текст -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Roboto, Arial, sans-serif">
+    <text x="48" y="82" font-size="40" font-weight="700" fill="#e6edf3">Побединский Данила</text>
+    <rect x="48" y="98" width="56" height="3" rx="1.5" fill="#a371f7"/>
+    <text x="48" y="130" font-size="20" font-weight="600" fill="#a371f7">.NET Backend Developer</text>
+    <text x="48" y="158" font-size="14.5" fill="#8b949e">модульные монолиты · ASP.NET Core 10 · PostgreSQL · удалённо, UTC+3</text>
+  </g>
+</svg>
