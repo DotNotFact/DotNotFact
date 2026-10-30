@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Побединский Данила, .NET Backend Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="DotNotFact, AI-инженер · Full-stack разработчик">
   <rect width="1000" height="200" fill="#ffffff"/>
 
   <!-- связи ядра с модулями -->
@@ -33,9 +33,9 @@
 
   <!-- текст -->
   <g font-family="'Segoe UI', 'Helvetica Neue', Roboto, Arial, sans-serif">
-    <text x="48" y="82" font-size="40" font-weight="700" fill="#1f2328">Побединский Данила</text>
+    <text x="48" y="82" font-size="40" font-weight="700" fill="#1f2328">DotNotFact</text>
     <rect x="48" y="98" width="56" height="3" rx="1.5" fill="#8250df"/>
-    <text x="48" y="130" font-size="20" font-weight="600" fill="#8250df">.NET Backend Developer</text>
-    <text x="48" y="158" font-size="14.5" fill="#59636e">3+ года в проде · два своих продукта · открыт к работе</text>
+    <text x="48" y="130" font-size="20" font-weight="600" fill="#8250df">AI-инженер · Full-stack разработчик</text>
+    <text x="48" y="158" font-size="14.5" fill="#59636e">4+ года в коммерческой разработке · свои продукты · беру проекты</text>
   </g>
 </svg>
